@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BankApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_daily_notification_news">Home daily notification news</string>
+    <string name="checking_account">Checking account</string>
+    <string name="amount">Amount</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="saving_account">Saving account</string>
+    <string name="description">Description</string>
+    <string name="home">Home</string>
+    <string name="app_bar_menu">app_bar_menu</string>
+    <string name="deposit">Deposit</string>
+    <string name="profile">Profile</string>
+    <string name="transfers">Transfers</string>
+    <string name="select_your_account">Select your account</string>
+    <string name="enter_account_to_transfer">Enter account to transfer</string>
+    <string name="enter_amount">enter Amount</string>
+    <string name="transfer">Transfer</string>
+    <string name="choose_account">choose account</string>
+    <string name="tap_here">Tap here</string>
+    <string name="type_receiver_account">Type receiver account</string>
+    <string name="date">Date</string>
+</resources>
