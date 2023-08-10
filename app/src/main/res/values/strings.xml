@@ -21,4 +21,24 @@
     <string name="tap_here">Tap here</string>
     <string name="type_receiver_account">Type receiver account</string>
     <string name="date">Date</string>
+    <string name="sender_s_account">Sender\'s Account:</string>
+    <string name="receiver_s_account">Receiver\'s Account:</string>
+    <string name="transaction_amount">Transaction Amount:</string>
+    <string name="verify_all_information_is_correct">Verify all information is correct</string>
+    <string name="person_name">Person Name</string>
+    <string name="personal_info">personal information</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="account_info">Account Info</string>
+    <string name="routing_number">Routing number</string>
+    <string name="account_number">Account number</string>
+    <string name="debit_card">Debit Card</string>
+    <string name="allow_transaction">Allow transaction</string>
+    <string name="allow_internation_transactions">Allow internation transactions</string>
+    <string name="view_your_card">View your card</string>
+    <string name="change_your_pin">Change your pin</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="allow_bank_app_to_sale_my_info">Allow bank app to sale my info</string>
+    <string name="todo">TODO</string>
+    <string name="logout">Logout</string>
 </resources>

@@ -40,7 +40,7 @@ class TransactionViewModel : ViewModel() {
         batch.update(senderDocRef, "balance", FieldValue.increment(-amount))
 
         // Add the amount to the receiver's balance
-        val receiverDocRef = firestore.collection("user2").document(senderAccount)
+        val receiverDocRef = firestore.collection("user2").document(receiverAccount)
         batch.update(receiverDocRef, "balance", FieldValue.increment(amount))
 
         // Commit the batch write to update both balances atomically

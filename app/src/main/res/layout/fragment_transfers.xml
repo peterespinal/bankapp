@@ -56,7 +56,6 @@
         android:layout_marginTop="8dp"
         android:gravity="center"
         android:hint="@string/type_receiver_account"
-        android:inputType="number"
         android:minHeight="48dp"
         android:textColorHint="#757575" />
 
